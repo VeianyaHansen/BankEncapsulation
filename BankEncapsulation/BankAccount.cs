@@ -19,8 +19,7 @@ namespace BankEncapsulation
         
         public string GetBalance()
         {
-            return $"${balance}";
-            
+            return $"${balance}";            
         }
     }
 }
